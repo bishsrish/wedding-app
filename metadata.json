@@ -1,0 +1,9 @@
+{
+  "name": "Eternal Union: Wedding Companion",
+  "description": "A premium destination wedding app for guest logistics, social engagement, and memory sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
